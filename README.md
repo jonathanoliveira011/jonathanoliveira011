@@ -1,7 +1,7 @@
 ## **Olá, eu sou o Jonathan Franks e seja bem vindo ao meu perfil no GitHub!** ✌️
 <Br>
 
-### 👨🏽‍🎓 Sou formado em Análise e Desenvolvimento de Sistemas pela Unifaat onde aprendi um pouco das tecnologias listadas um pouco mais abaixo. 
+### 👨🏽‍🎓 Sou formado em Análise e Desenvolvimento de Sistemas pela Unifaat onde aprendi as tecnologias listadas um pouco mais abaixo. 
 <hr>
 
 ### **Segue abaixo minhas redes sociais 📸**
